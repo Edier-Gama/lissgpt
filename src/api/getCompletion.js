@@ -18,9 +18,7 @@ async function getCompletion(API_KEY, prompt) {
       return responseText
 
     } catch (error) {
-      if(error.status === 401){
         console.log(error.message);
-      }
     }
 }
 
