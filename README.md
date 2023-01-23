@@ -1,2 +1,3 @@
 # code-explainer
-This app explain your scripts writen in every programing language to a natural language using an Artificial Inteligence called GPT-3 of OpenAI
+
+Search anything you want like in Google: https://edier-gama.github.io/Google-GPT3/
