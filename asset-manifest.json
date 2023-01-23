@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google-GPT3/static/css/main.444fd12d.css",
+    "main.js": "/Google-GPT3/static/js/main.caea6700.js",
+    "index.html": "/Google-GPT3/index.html",
+    "main.444fd12d.css.map": "/Google-GPT3/static/css/main.444fd12d.css.map",
+    "main.caea6700.js.map": "/Google-GPT3/static/js/main.caea6700.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.444fd12d.css",
+    "static/js/main.caea6700.js"
+  ]
+}
