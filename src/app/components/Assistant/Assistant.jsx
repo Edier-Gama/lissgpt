@@ -1,5 +1,5 @@
 import React from "react"
-import { getCompletion } from "../api/getCompletion";
+import { getCompletion } from "../../api/getCompletion";
 import { useState } from 'react';
 
 function GoogleGPT(){ 

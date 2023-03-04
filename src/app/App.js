@@ -1,8 +1,8 @@
 import React from "react";
-import { Homepage } from "./app/Homepage/Homepage";
-import { GoogleGPT } from "./app/Assistant/Assistant";
-import { Footer } from "./app/Footer/Footer";
-import { Login } from "./app/Login/Login";
+import { Homepage } from "./components/Homepage/Homepage";
+import { GoogleGPT } from "./components/Assistant/Assistant";
+import { Footer } from "./components/Footer/Footer";
+import { Login } from "./components/Login/Login";
 import { Route, Routes, HashRouter } from "react-router-dom";
 import './styles/Assistant.css'
 
