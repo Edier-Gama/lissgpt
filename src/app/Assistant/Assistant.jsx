@@ -1,13 +1,12 @@
 import React from "react"
-import { getCompletion } from "../../api/getCompletion";
+import { getCompletion } from "../api/getCompletion";
 import { useState } from 'react';
-import { API_KEY } from "../../api/apikey";
 
 function GoogleGPT(){ 
 
   const [text, setText] = React.useState()
   const prompt = `qué significa: ${text}`
-  const apikey = API_KEY
+  const apikey = '123'
 
   function sendText(event) {
     setText(event.target.value)

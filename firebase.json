@@ -1,0 +1,6 @@
+{
+    "hosting": {
+        "site": "gptassistant",
+        "public": "public"
+    }
+}

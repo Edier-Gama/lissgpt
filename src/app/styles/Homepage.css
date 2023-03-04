@@ -1,0 +1,31 @@
+:root {
+    --text-color: rgb(0, 0, 0);
+    --onChangeColor: rgb(141, 141, 141);
+}
+
+.links a{
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    font-size: 17px;
+    text-decoration: none;
+    color: var(--text-color);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+.links a:hover {
+   text-decoration: underline;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.home p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
