@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Google-GPT3/static/css/main.444fd12d.css",
-    "main.js": "/Google-GPT3/static/js/main.caea6700.js",
+    "main.css": "/Google-GPT3/static/css/main.bba88dd4.css",
+    "main.js": "/Google-GPT3/static/js/main.fd0794f4.js",
+    "static/media/ai_two.svg": "/Google-GPT3/static/media/ai_two.6142fac8bd8b359d6dfc7ef517241f8f.svg",
     "index.html": "/Google-GPT3/index.html",
-    "main.444fd12d.css.map": "/Google-GPT3/static/css/main.444fd12d.css.map",
-    "main.caea6700.js.map": "/Google-GPT3/static/js/main.caea6700.js.map"
+    "main.bba88dd4.css.map": "/Google-GPT3/static/css/main.bba88dd4.css.map",
+    "main.fd0794f4.js.map": "/Google-GPT3/static/js/main.fd0794f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.444fd12d.css",
-    "static/js/main.caea6700.js"
+    "static/css/main.bba88dd4.css",
+    "static/js/main.fd0794f4.js"
   ]
 }
