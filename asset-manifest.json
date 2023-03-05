@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/lissgpt/static/css/main.1003dd76.css",
-    "main.js": "/lissgpt/static/js/main.087c1dde.js",
+    "main.css": "/lissgpt/static/css/main.cd0a902f.css",
+    "main.js": "/lissgpt/static/js/main.7c45766a.js",
     "static/media/ai_two.svg": "/lissgpt/static/media/ai_two.6142fac8bd8b359d6dfc7ef517241f8f.svg",
     "index.html": "/lissgpt/index.html",
-    "main.1003dd76.css.map": "/lissgpt/static/css/main.1003dd76.css.map",
-    "main.087c1dde.js.map": "/lissgpt/static/js/main.087c1dde.js.map"
+    "main.cd0a902f.css.map": "/lissgpt/static/css/main.cd0a902f.css.map",
+    "main.7c45766a.js.map": "/lissgpt/static/js/main.7c45766a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1003dd76.css",
-    "static/js/main.087c1dde.js"
+    "static/css/main.cd0a902f.css",
+    "static/js/main.7c45766a.js"
   ]
 }
