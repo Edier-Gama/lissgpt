@@ -13,26 +13,26 @@ function Homepage() {
                  <a href="https://github.com/Edier-Gama/code-explainer">Repositorio</a>
                  <a href="https://openai.com/blog/openai-api/">API</a>
                  <ul className="links login-links">
-                 <Link to='/login' className="login">Entrar</Link>
-                 <Link to='/signup' className="login">Registrarte</Link>
+                 <Link to='/login' className="token_link">INICIAR SESION</Link>
+                 <Link to='/signup' className="token_link">CREAR CUENTA</Link>
+                 <Link to='/signup' className="token_link">CREAR TOKEN</Link>
                 </ul>
                 </ul>
              </nav>
 
              <section className="home">
                 <h1>LISS GPT</h1>
-                <p>Liss GPT es un asistente virtual personalizable que usa inteligencia
-                    artificial <br/> para ayudarte en cualquier tipo de problema que tengas.
+                <p>Liss GPT es un <b>asistente virtual personalizable que usa inteligencia
+                    artificial</b><br/> para ayudarte en cualquier tipo de problema que tengas.
                     <br/><br/>
-                    Para usar Liss GPT debes tener un token de acceso gratuito de OpenAI 
-                    <br/><br/><br/>
-                    1 - Da click a sacar token y crea o inicia sesión en la página de OpenAI <br/><br/>
-                    2 - después dale click a "create new secret key" y copia esos caracteres <br/><br/>
-                    3 - Vuelve a esta página y registrate o inicia sesión con tu token 
+                    Para usar Liss GPT <b>debes tener un token de acceso gratuito de OpenAI,
+                    </b><br/><br/>
+                    Dale click a <b>CREAR TOKEN</b> para obtener uno
                 </p>
                 <div className="about_links">
-                <a href="https://platform.openai.com/account/api-keys" className="token_link">SACAR TOKEN</a>
+                <a href="https://platform.openai.com/account/api-keys" className="token_link">CREAR TOKEN</a>
                 <Link to='/login' className="token_link">INICIAR SESIÓN</Link>
+                <Link to='/signup' className="token_link">REGISTRARTE</Link>
                 </div>
                 <div className="home-img">
                 <img src={ai_two} alt="" />

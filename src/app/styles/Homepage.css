@@ -13,6 +13,7 @@
     font-family: 'JetBrains Mono', sans-serif;
     font-weight: 500;
     top: 20px;
+    z-index: 1;
 }
 
 .login-links {
@@ -24,10 +25,12 @@
 
 .login-links a {
     margin: 10px;
-    border-width: 3px; /* Deberás ajustar el ancho del borde a tu gusto */
-    border-style:dashed;
-    border-image: linear-gradient(to right, rgb(66, 101, 255), rgb(18, 166, 235)) 1;
-    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(4, 93, 195);
+    border-radius: 10px;
+    width: 140px;
+    font-family: 'Roboto', sans-serif;
+    padding: 12px;
 }
 
 a:hover {
@@ -48,7 +51,7 @@ a:hover {
     border: 3px solid black;
     border-radius: 10px;
     width: 150px;
-    top: 30px;
+    top:40px;
 }
 
 .about_links {
@@ -61,14 +64,14 @@ a:hover {
     display: flex;
     flex-direction: column;
     padding: 5%;
-    top: -40px;
+    top: -45px;
 }
 
 .home-img {
     position: relative;
     display: flex;
     justify-content: right;
-    bottom: 420px;
+    bottom: 340px;
     right: -120px;
 }
 
