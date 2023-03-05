@@ -1,3 +1,45 @@
 .login {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     margin: auto;
+     max-width: 320px;
+}
+
+.login h2 {
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+   font-size: 40px;
+}
+
+.login p {
+   font-family: 'Quicksand', sans-serif;
+}
+input {
+   height: 30px;
+   font-family: 'Quicksand', sans-serif;
+   font-size: 16px;
+   padding: 5px;
+   border-radius: 5px;
+}
+
+button {
+    border-radius: 5px;
+    height: 50px;
+    background-color: rgb(228, 228, 228);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.login img {
+    position: relative;
+    width: 40px;
+    margin: auto;
+    top: 10px;
+    cursor: pointer;
+}
+
+.register {
     text-align: center;
 }
